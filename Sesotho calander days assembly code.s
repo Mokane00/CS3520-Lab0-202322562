@@ -3,7 +3,7 @@ prompt: .asciz "Enter a number 1-7: "
 error: .asciz "Error: Invalid input.\n"
 day1: .asciz "Sontaha\n"     # Sunday
 day2: .asciz "Mantaha\n"     # Monday
-day3: .asciz "Labobedi\n"    # Tuesday
+day3: .asciz "Labobeli\n"    # Tuesday
 day4: .asciz "Laboraro\n"    # Wednesday
 day5: .asciz "Labone\n"      # Thursday
 day6: .asciz "Labohlano\n"   # Friday
